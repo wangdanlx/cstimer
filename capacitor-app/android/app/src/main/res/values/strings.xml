@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">csTimer</string>
+    <string name="title_activity_main">csTimer</string>
+    <string name="package_name">com.cstimer.app</string>
+    <string name="custom_url_scheme">com.cstimer.app</string>
+</resources>
